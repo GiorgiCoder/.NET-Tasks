@@ -1,0 +1,5 @@
+Region: Africa
+Subregion: Northern Africa
+Latitude: 34, Longitude: 9
+Area: 163610
+Population: 11818618

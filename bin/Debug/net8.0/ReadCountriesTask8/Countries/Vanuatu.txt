@@ -1,0 +1,5 @@
+Region: Oceania
+Subregion: Melanesia
+Latitude: -16, Longitude: 167
+Area: 12189
+Population: 307150

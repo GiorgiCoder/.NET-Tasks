@@ -1,0 +1,5 @@
+Region: Europe
+Subregion: Northern Europe
+Latitude: 59, Longitude: 26
+Area: 45227
+Population: 1331057

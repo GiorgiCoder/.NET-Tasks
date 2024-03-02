@@ -1,0 +1,5 @@
+Region: Americas
+Subregion: North America
+Latitude: 19.3, Longitude: 166.633333
+Area: 34.2
+Population: 300

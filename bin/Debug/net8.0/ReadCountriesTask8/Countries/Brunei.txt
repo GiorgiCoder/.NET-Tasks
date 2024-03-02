@@ -1,0 +1,5 @@
+Region: Asia
+Subregion: South-Eastern Asia
+Latitude: 4.5, Longitude: 114.66666666
+Area: 5765
+Population: 437483

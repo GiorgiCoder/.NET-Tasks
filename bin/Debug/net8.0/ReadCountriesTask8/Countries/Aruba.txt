@@ -1,0 +1,5 @@
+Region: Americas
+Subregion: Caribbean
+Latitude: 12.5, Longitude: -69.96666666
+Area: 180
+Population: 106766

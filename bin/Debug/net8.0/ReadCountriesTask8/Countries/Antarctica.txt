@@ -1,0 +1,5 @@
+Region: Antarctic
+Subregion: 
+Latitude: -90, Longitude: 0
+Area: 14000000
+Population: 1000

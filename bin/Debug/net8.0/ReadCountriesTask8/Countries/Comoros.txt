@@ -1,0 +1,5 @@
+Region: Africa
+Subregion: Eastern Africa
+Latitude: -12.16666666, Longitude: 44.25
+Area: 1862
+Population: 869595

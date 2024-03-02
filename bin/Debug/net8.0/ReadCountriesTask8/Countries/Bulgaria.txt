@@ -1,0 +1,5 @@
+Region: Europe
+Subregion: Southeast Europe
+Latitude: 43, Longitude: 25
+Area: 110879
+Population: 6927288

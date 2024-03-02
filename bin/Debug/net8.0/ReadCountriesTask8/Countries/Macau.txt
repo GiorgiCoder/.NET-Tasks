@@ -1,0 +1,5 @@
+Region: Asia
+Subregion: Eastern Asia
+Latitude: 22.16666666, Longitude: 113.55
+Area: 30
+Population: 649342

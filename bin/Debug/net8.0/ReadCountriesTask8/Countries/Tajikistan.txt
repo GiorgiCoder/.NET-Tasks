@@ -1,0 +1,5 @@
+Region: Asia
+Subregion: Central Asia
+Latitude: 39, Longitude: 71
+Area: 143100
+Population: 9537642

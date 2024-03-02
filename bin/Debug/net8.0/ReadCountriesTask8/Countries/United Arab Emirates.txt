@@ -1,0 +1,5 @@
+Region: Asia
+Subregion: Western Asia
+Latitude: 24, Longitude: 54
+Area: 83600
+Population: 9890400

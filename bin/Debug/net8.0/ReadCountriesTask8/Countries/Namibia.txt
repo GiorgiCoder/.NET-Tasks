@@ -1,0 +1,5 @@
+Region: Africa
+Subregion: Southern Africa
+Latitude: -22, Longitude: 17
+Area: 825615
+Population: 2540916

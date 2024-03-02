@@ -1,0 +1,5 @@
+Region: Antarctic
+Subregion: 
+Latitude: 54.4208, Longitude: 3.3464
+Area: 49
+Population: 0

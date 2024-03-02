@@ -1,0 +1,5 @@
+Region: Asia
+Subregion: Central Asia
+Latitude: 40, Longitude: 60
+Area: 488100
+Population: 6031187

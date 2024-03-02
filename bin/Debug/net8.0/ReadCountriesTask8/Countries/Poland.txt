@@ -1,0 +1,5 @@
+Region: Europe
+Subregion: Central Europe
+Latitude: 52, Longitude: 20
+Area: 312679
+Population: 37950802

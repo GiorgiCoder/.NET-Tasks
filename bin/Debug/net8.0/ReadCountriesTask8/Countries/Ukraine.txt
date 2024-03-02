@@ -1,0 +1,5 @@
+Region: Europe
+Subregion: Eastern Europe
+Latitude: 49, Longitude: 32
+Area: 603500
+Population: 44134693

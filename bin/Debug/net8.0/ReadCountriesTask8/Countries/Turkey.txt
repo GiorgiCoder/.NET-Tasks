@@ -1,0 +1,5 @@
+Region: Asia
+Subregion: Western Asia
+Latitude: 39, Longitude: 35
+Area: 783562
+Population: 84339067

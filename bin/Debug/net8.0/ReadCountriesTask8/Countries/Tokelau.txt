@@ -1,0 +1,5 @@
+Region: Oceania
+Subregion: Polynesia
+Latitude: -9, Longitude: -172
+Area: 12
+Population: 1411

@@ -1,0 +1,5 @@
+Region: Europe
+Subregion: Western Europe
+Latitude: 52.5, Longitude: 5.75
+Area: 41850
+Population: 16655799

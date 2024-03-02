@@ -1,0 +1,5 @@
+Region: Africa
+Subregion: Middle Africa
+Latitude: -1, Longitude: 15
+Area: 342000
+Population: 5657000

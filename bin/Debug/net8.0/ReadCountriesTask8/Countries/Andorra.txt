@@ -1,0 +1,5 @@
+Region: Europe
+Subregion: Southern Europe
+Latitude: 42.5, Longitude: 1.5
+Area: 468
+Population: 77265

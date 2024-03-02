@@ -1,0 +1,5 @@
+Region: Americas
+Subregion: Central America
+Latitude: 17.25, Longitude: -88.75
+Area: 22966
+Population: 397621
